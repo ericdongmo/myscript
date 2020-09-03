@@ -2,7 +2,7 @@
 
 
 #Description: Centos7 Audit
-#Author: Serge k
+#Author: Serge k , Eric D
 #Date: August 2020
 
 
