@@ -4,7 +4,7 @@
 #Description: Centos7 Audit
 #Author: Serge k , Eric D
 #Date: August 2020
-
+#script to display sstem info
 
 echo -e "\n***********************************************\n" > /var/log/centos7audit-$(date +%F)
 echo -e "\n*****  Centos 7 audit *********************\n" >> /var/log/centos7audit-$(date +%F)
