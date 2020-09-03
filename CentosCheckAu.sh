@@ -6,7 +6,8 @@
 
 # This script will be used to audit this server running on centOS 7.
 
-#Authorized Users
+#Authorized Users ; You have to be root
+
         if
 		 [ $UID -ne 0 ] && [ $USER != root ]
 then
