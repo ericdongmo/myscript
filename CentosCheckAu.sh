@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author:   Eric DONGMO
+# Author:   Eric M DONGMO
 # Date:     August 2020
 # CopyRight (c) ericmdongmo@gmail.com
 
